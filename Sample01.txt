@@ -1,1 +1,3 @@
-point1
+point1 changed by user1
+add a new line by user1
+this is common stuff
