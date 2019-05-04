@@ -2,3 +2,7 @@ point1 changed by user2
 new line added by user2
 this is commone stuff
 "commit 2"
+
+point1 changed by user1
+add a new line by user1
+this is common stuff
